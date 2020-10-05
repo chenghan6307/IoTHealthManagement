@@ -1,0 +1,5 @@
+pyuic5 -o GUI.py GUI.ui
+
+pyuic5 -o GUI002.py GUI002.ui
+
+python C:\Users\danie\DPLN\ORG\guiDVLP\main.py
